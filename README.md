@@ -22,6 +22,10 @@ Here are some of my favorite projects I've worked on:
 
 Will be listed..
 
+<a href="https://www.linkedin.com/in/alikaanerden">
+  <img src="LINK_TO_LINKEDIN_LOGO" alt="LinkedIn" width="30px"/>
+</a>
+
 Connect with Me
 LinkedIn: https://www.linkedin.com/in/alikaanerden/
 Email: https://medium.com/@kaanerdenn
