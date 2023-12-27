@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for t
 - Python, SQL, PowerBI, Tableau
   
 ### Libraries & Tools: 
-Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
+- Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
 
 ### Data Analysis:
 - Exploratory Data Analysis, Statistical Analysis, Predictive Modeling
