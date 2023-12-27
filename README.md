@@ -18,26 +18,15 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for t
 - PowerBI
 - Tableau
 
-### Libraries & Tools:
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- Matplotlib
-- Seaborn
+### Libraries & Tools: 
+Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
 
 ### Data Analysis:
-- Exploratory Data Analysis
-- Statistical Analysis
-- Predictive Modeling
+- Exploratory Data Analysis, Statistical Analysis, Predictive Modeling
 
 ### Machine Learning:
-- Supervised and Unsupervised Learning
-- Deep Learning
-- Natural Language Processing
+- Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing
 
-Featured Projects
-Below are some of my favorite projects I've worked on:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/alikaanerden">
