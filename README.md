@@ -18,14 +18,12 @@ Data Analysis: Exploratory Data Analysis, Statistical Analysis, Predictive Model
 Machine Learning: Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing
 
 Featured Projects
-Here are some of my favorite projects I've worked on:
-
-Will be listed..
+Below are some of my favorite projects I've worked on:
 
 <a href="https://www.linkedin.com/in/alikaanerden">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30px"/>
 </a> <a href="https://medium.com/@kaanerdenn">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b3qxB8ELI-kyQKztCsLwEQ.png" alt="Medium" width="30px"/>
+  <img src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg" alt="Medium" width="30px"/>
 </a>
 
 Connect with Me
