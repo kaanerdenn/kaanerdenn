@@ -25,7 +25,7 @@ Will be listed..
 <a href="https://www.linkedin.com/in/alikaanerden">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30px"/>
 </a> <a href="https://medium.com/@kaanerdenn">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="Medium" width="30px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="Medium" width="30px"/>
 </a>
 
 Connect with Me
