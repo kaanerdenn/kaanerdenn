@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Kaan! 👋
 
-<!--
-**kaanerdenn/kaanerdenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Scientist | 🛠️ Learner | 📈 Passionate about Analytics
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a data science enthusiast with a passion for turning data into insights, stories, and interactive visualizations. Here, you'll find my portfolio of data science projects, showcasing my skills in analysis, machine learning, and beyond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+🎓 Graduated from METU.
+💼 Currently working as a Data Analyst.
+🌱 I’m currently learning more about Machine Learning/Deep Learning.
+👯 I’m looking to collaborate on open-source data science projects.
+## My Skill Set
+Programming Languages: Python, SQL, PowerBI, Tableau
+Libraries & Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
+Data Analysis: Exploratory Data Analysis, Statistical Analysis, Predictive Modeling
+Machine Learning: Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing
+
+Featured Projects
+Here are some of my favorite projects I've worked on:
+
+Will be listed..
+
+Connect with Me
+LinkedIn: https://www.linkedin.com/in/alikaanerden/
+Email: https://medium.com/@kaanerdenn
+Blog1: https://statisticswithkaan.blogspot.com
+Blog2: https://economicswithkaan.blogspot.com
