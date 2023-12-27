@@ -25,7 +25,7 @@ Below are some of my favorite projects I've worked on:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30px"/>
 </a>
 <a href="https://medium.com/@kaanerdenn">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-medium-47-433328.png" alt="Medium" width="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="30px"/>
 </a>
 <a href="https://statisticswithkaan.blogspot.com">
   <img src="https://seeklogo.com/images/B/blogger_B-logo-47610B2F87-seeklogo.com.png" alt="Blogger" width="30px"/>
