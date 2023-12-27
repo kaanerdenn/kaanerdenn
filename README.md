@@ -9,7 +9,9 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for t
 💼 Currently working as a Data Analyst.
 🌱 I’m currently learning more about Machine Learning/Deep Learning.
 👯 I’m looking to collaborate on open-source data science projects.
+
 ## My Skill Set
+
 Programming Languages: Python, SQL, PowerBI, Tableau
 Libraries & Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
 Data Analysis: Exploratory Data Analysis, Statistical Analysis, Predictive Modeling
