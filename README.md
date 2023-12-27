@@ -23,7 +23,7 @@ Here are some of my favorite projects I've worked on:
 Will be listed..
 
 <a href="https://www.linkedin.com/in/alikaanerden">
-  <img src="LINK_TO_LINKEDIN_LOGO" alt="LinkedIn" width="30px"/>
+  <img src="(https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png)" alt="LinkedIn" width="30px"/>
 </a>
 
 Connect with Me
