@@ -13,11 +13,8 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for t
 ## My Skill Set
 
 ### Programming Languages:
-- Python
-- SQL
-- PowerBI
-- Tableau
-
+- Python, SQL, PowerBI, Tableau
+  
 ### Libraries & Tools: 
 Pandas, Numpy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
 
