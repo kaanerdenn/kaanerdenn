@@ -12,10 +12,29 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for t
 
 ## My Skill Set
 
-Programming Languages: Python, SQL, PowerBI, Tableau
-Libraries & Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
-Data Analysis: Exploratory Data Analysis, Statistical Analysis, Predictive Modeling
-Machine Learning: Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing
+### Programming Languages:
+- Python
+- SQL
+- PowerBI
+- Tableau
+
+### Libraries & Tools:
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- Matplotlib
+- Seaborn
+
+### Data Analysis:
+- Exploratory Data Analysis
+- Statistical Analysis
+- Predictive Modeling
+
+### Machine Learning:
+- Supervised and Unsupervised Learning
+- Deep Learning
+- Natural Language Processing
 
 Featured Projects
 Below are some of my favorite projects I've worked on:
