@@ -5,8 +5,8 @@
 Welcome to my GitHub profile! I'm a data science enthusiast with a passion for turning data into insights, stories, and interactive visualizations. Here, you'll find my portfolio of data science projects, showcasing my skills in analysis, machine learning, and beyond.
 
 ## About Me
-🎓 Graduated from METU.
-💼 Currently working as a Data Analyst.
+🎓 Bsc METU, MSc in Information Systems-Hacettepe University
+💼 Currently working as a Data Analytics Developer.
 🌱 I’m currently learning more about Machine Learning/Deep Learning.
 👯 I’m looking to collaborate on open-source data science projects.
 
